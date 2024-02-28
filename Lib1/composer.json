@@ -1,0 +1,13 @@
+{
+    "name": "jpgs/library-lib1",
+    "description": "Library 1",
+    "version": "1.0.0",
+    "autoload": {
+        "psr-4": {
+            "Library\\Lib1\\": ""
+        }
+    },
+    "require": {
+        "php": "^7.0"
+    }
+}
